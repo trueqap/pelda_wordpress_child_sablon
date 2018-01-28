@@ -1,0 +1,24 @@
+/*
+ Theme Name:   Bemutató Child Sablon
+ Theme URI:    http://wphu.org
+ Description:  Ez csak egy bemutató sablon!
+ Author:       Patai László
+ Author URI:   http://wphu.org
+ Template:     twentyfifteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+.figyelmeztetes-komment-alatt{
+
+  padding: 10px;
+  border: 1px solid red;
+  margin-top: 10px;
+  font-weight: bold;
+  font-style: italic;
+  border-style: dashed;
+
+}
